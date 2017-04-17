@@ -1,0 +1,24 @@
+body {
+	background-color: darkslategrey;
+	color: aliceblue;
+	vertical-align: middle;
+}
+
+#divQuotes {
+	border-radius: 3px;
+	position: relative;
+	margin: 8% auto auto auto;
+	width: 450px;
+	padding: 40px 50px;
+	display: table;
+	background-color: #fff;
+}
+
+#quotes#author {
+	text-align: center;
+}
+
+p {
+	color: darkblue;
+	font-size: 1.5em;
+}
